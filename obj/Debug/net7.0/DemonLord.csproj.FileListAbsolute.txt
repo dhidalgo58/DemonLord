@@ -1,0 +1,15 @@
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.csproj.AssemblyReference.cache
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.AssemblyInfoInputs.cache
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.AssemblyInfo.cs
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.csproj.CoreCompileInputs.cache
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\bin\Debug\net7.0\DemonLord.exe
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\bin\Debug\net7.0\DemonLord.deps.json
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\bin\Debug\net7.0\DemonLord.runtimeconfig.json
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\bin\Debug\net7.0\DemonLord.dll
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\bin\Debug\net7.0\DemonLord.pdb
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.dll
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\refint\DemonLord.dll
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.pdb
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\DemonLord.genruntimeconfig.cache
+D:\source\repos\ElevenFiftyProjects\codingFoundations\assignments\ConsoleGameApp\DemonLord\obj\Debug\net7.0\ref\DemonLord.dll
