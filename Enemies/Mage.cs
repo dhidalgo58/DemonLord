@@ -1,6 +1,6 @@
 public class Mage : IEnemy 
 {
-    public int Health { get; private set; } = 200;
+    public int Health { get; set; } 
     
     public static List<string> Dialogue = new List<string>
     {
