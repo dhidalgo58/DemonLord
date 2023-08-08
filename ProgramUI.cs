@@ -118,7 +118,7 @@ public class ProgramUI
 
             else continue;
 
-            if (player.Health <= 0 || mage.Health <= 0)
+            if (player.Health <= 000 || mage.Health <= 000)
             {
                 continueToRun = false;
                 Console.Clear();
@@ -136,6 +136,11 @@ public class ProgramUI
         Attack attack = new Attack("Reality Slash", 20, AttackType.Slashing);
         mage.TakeDamage(attack);
         PlayerData(player, mage);
+        if (mage.Health <= 0)
+        {
+            Console.WriteLine("You have defeated the enemy mage!");
+            return;
+        }
         WriteAt("Hero's Turn...  ", 15, 23);
         EnemyTurn(player, mage);
         BattleOptions(player, mage);
@@ -146,6 +151,11 @@ public class ProgramUI
         Attack attack = new Attack("Fallen Down", 25, AttackType.Bludgeoning);
         mage.TakeDamage(attack);
         PlayerData(player, mage);
+        if (mage.Health <= 0)
+        {
+            Console.WriteLine("You have defeated the enemy mage!");
+            return;
+        }
         WriteAt("Hero's Turn...  ", 15, 23);
         EnemyTurn(player, mage);
         BattleOptions(player, mage);
@@ -156,6 +166,11 @@ public class ProgramUI
         Attack attack = new Attack("Grasp Heart", 30, AttackType.Necrotic);
         mage.TakeDamage(attack);
         PlayerData(player, mage);
+        if (mage.Health <= 0)
+        {
+            Console.WriteLine("You have defeated the enemy mage!");
+            return;
+        }
         WriteAt("Hero's Turn...  ", 15, 23);
         EnemyTurn(player, mage);
         BattleOptions(player, mage);
@@ -199,9 +214,14 @@ public class ProgramUI
         // Print each line at the specified position
         WriteAt(health1, 23, 27);
 
-        WriteAt(health2, 23, 28);        
-        
-        
+        WriteAt(health2, 23, 28);
+        if (player.Health <= 000 || mage.Health <= 000)
+        {
+            Console.Clear();
+            Console.WriteLine("THANKS FOR PLAYING!");
+            Exit();
+        }
+
     }
     private static void UpdateHealth(Player player, Mage mage)
     {

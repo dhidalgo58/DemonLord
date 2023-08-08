@@ -132,7 +132,7 @@ public class Mage : IEnemy
         
         Health -= damageAmount;
 
-        Health = Math.Max(Health, 0);
+        Health = Math.Max(Health, 000);
 
         return "Ouch!";
 
